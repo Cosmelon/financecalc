@@ -5,6 +5,7 @@ Programs included:
 - simple interest
 - discounted value
 - J1effect
+- combined menu program (WIP)
 
 disclaimer:
 This software is provided as-is. The software has been designed with the TI-84 Plus CE v5.1.5.0019 in mind. Using these programs anywhere is at your own risk.

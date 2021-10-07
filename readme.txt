@@ -1,4 +1,4 @@
-These are finance programs for the TI-84 Plus CE platform.
+These are finance programs for the TI-84 Plus CE platform. They're are all seprate so you can choose what programs you want individually or you can use the menu program which combines all of them together.
 
 Programs included:
 - compound interest
